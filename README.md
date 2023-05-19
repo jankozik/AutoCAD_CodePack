@@ -6,7 +6,7 @@
 
 The library was originally developed for AutoCAD R18 (2010, 2011, 2012) and .NET 3.5. We recently updated it to target AutoCAD R23 (2019) and .NET 4.7.1, thanks to the contribution from [@lavantgarde](https://github.com/lavantgarde). Due to the popularity of old AutoCAD versions, we also provide compatibility projects for R18 and R19.
 
-View [Test.cs](https://github.com/luanshixia/AutoCADCodePack/blob/master/AutoCADCommands/Test.cs) for API usage examples.
+View [Test.cs](https://github.com/jankozik/AutoCADCodePack/blob/master/AutoCADCommands/Test.cs) for API usage examples.
 
 Don't forget to star us! If you think this library is helpful, please tell others to have a try too. We can't wait to hear all your feedbacks.
 

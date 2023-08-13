@@ -1,6 +1,6 @@
 # AutoCAD Code Pack
 
-*Previously hosted on [CodePlex](https://acadcodepack.codeplex.com/).*
+*Previously hosted on [CodePlex](https://acadcodepack.codeplex.com/). *
 
 `AutoCAD Code Pack` is a powerful library that helps you to develop AutoCAD plugins using the AutoCAD .NET API. It re-encapsulates the over-designed and old-fashioned classes and methods into easy-to-use static modules and functions. It also brings modern C# syntax like LINQ and lambdas (functional programming) to AutoCAD development. With all the features it provides, you can save over half the lines of your code.
 
